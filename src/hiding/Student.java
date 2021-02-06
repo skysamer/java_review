@@ -15,4 +15,11 @@ public class Student {
 		this.studentName=studentName;
 	}
 
+	@Override
+	public String toString() {
+		return studentID + ", " + studentName;
+	}
+	
+	
+
 }

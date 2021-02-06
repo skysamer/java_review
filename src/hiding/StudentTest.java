@@ -8,6 +8,7 @@ public class StudentTest {
 		studentLee.setStudentName("ÀÌ»ף¿ר");
 		
 		System.out.println(studentLee.getStudentName());
+		System.out.println(studentLee);
 		
 
 	}
