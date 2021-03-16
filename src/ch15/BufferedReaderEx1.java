@@ -8,7 +8,7 @@ public class BufferedReaderEx1 {
 	public static void main(String[] args) {
 		
 		try {
-			FileReader fr=new FileReader("BufferedReaderEx1.java");
+			FileReader fr=new FileReader("C:\\Users\\이상민\\Desktop\\workspace\\java_review\\src\\ch15\\FileViewer.java");
 			BufferedReader br=new BufferedReader(fr);
 			
 			String line="";
